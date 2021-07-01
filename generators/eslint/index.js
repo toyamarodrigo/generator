@@ -4,7 +4,7 @@ module.exports = class extends Generator {
   async initialize() {
     const answers = await this.prompt([
       {
-        type: 'checkbox',
+        type: 'list',
         name: 'eslint',
         message: 'Which ESLint config do you want?',
         choices: [
