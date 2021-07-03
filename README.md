@@ -10,6 +10,7 @@ yo rodri:eslint
 will prompt as list
 
 ```sh
+"Which ESLint config do you want?"
 > javascript
 > next
 > typescript
