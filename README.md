@@ -1,6 +1,6 @@
 # Rodri Yeoman generator
 
-My yeoman generator for react eslint (soon typescript and Nextjs)
+My yeoman generator for react eslint
 Will add more in the future when needed
 
 You will need to install `yo` Yeoman generator 
