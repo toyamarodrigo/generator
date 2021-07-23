@@ -13,6 +13,14 @@
   ],
   "author": "Rodrigo Toyama <toyama.rodrigo@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toyamarodrigo/generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/toyamarodrigo/generator/issues"
+  },
+  "homepage": "https://github.com/toyamarodrigo/generator#readme",
   "dependencies": {
     "yeoman-generator": "4.0.0"
   },
