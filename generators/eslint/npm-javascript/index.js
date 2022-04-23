@@ -15,7 +15,7 @@ module.exports = class extends Generator {
         "eslint-plugin-react",
         "eslint-plugin-react-hooks",
       ],
-      { dev: true },
+      { "save-dev": true },
     );
   }
   eslint() {
